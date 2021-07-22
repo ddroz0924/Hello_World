@@ -1,5 +1,5 @@
 # Hello_World
-get to know ddroz0924
+get to know ddroz0924 AKA David Droz
 
 I am an aspiring data analyst looking to learn and launch my career! My current project is working through the Google Professional Certificate in Data Analysis.
 
